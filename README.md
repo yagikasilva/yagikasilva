@@ -26,20 +26,27 @@ I'm **Yagika**, a Sri Lanka-based freelance undergraduate software engineer and 
 
 
 
-### Tools & Technologies  
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+## 🛠️ Tools & Technologies  
 
-### Current Focus  
-- Learning **Cloud Integration** to enhance app functionality.  
-- Exploring **AI/ML fundamentals** to stay ahead in tech innovation.  
+<div align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=windows-terminal&logoColor=white" alt="Terminal" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+</div>
+
+## 🌟 Currently Focusing On  
+
+- 🤝 Gaining hands-on experience through an **internship** in software engineering.  
+- 🤖 Exploring **Artificial Intelligence (AI)** and its real-world applications.  
+- 💡 Working on **innovative projects** to bring new ideas to life.  
 
 ## 📫 Connect With Me  
-- ✉️ Email: [yagi123@gmail.com](mailto:yagi123@gmail.com)  
-- 💼 LinkedIn: [Yagika](https://www.linkedin.com/in/yagika)  
-- 🌐 Portfolio: [YAGI Influx Solutions](https://yagi-influx-solutions.com)  
+- ✉️ Email: [yagikasilva2001@gmail.com](mailto:yagikasilva2001@gmail.com)  
+- 💼 LinkedIn: [Yagika](https://www.linkedin.com/in/yagika-silva-b1b6ab254)
+- 🌐 Portfolio: [YAGI Influx Solutions](https://yagikasilva.github.io/YAGI-Influx-Solutions/)
 
 ## Fun Fact  
-⚡ **There are more lines of code written every day than tweets sent on Twitter.**  
+⚡ **"Programming is 1% writing code and 99% making it work... but I do both like a pro!"**  
