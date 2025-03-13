@@ -1,6 +1,11 @@
 # 👋 Hi, I'm **Yagika**  
 A passionate **Sri Lanka-based freelance undergraduate software engineer** and founder of **YAGI Influx Solutions**. 🌟  
 
+![Build Status](https://img.shields.io/github/workflow/status/username/repository/CI)
+![Version](https://img.shields.io/github/v/release/username/repository)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Contributors](https://img.shields.io/github/contributors/username/repository)
+
 ---
 
 ## 🧑‍💻 About Me  
