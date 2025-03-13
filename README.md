@@ -1,11 +1,6 @@
 # 👋 Hi, I'm **Yagika**  
 A passionate **Sri Lanka-based freelance undergraduate software engineer** and founder of **YAGI Influx Solutions**. 🌟  
 
-![Build Status](https://img.shields.io/github/workflow/status/username/repository/CI)
-![Version](https://img.shields.io/github/v/release/username/repository)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Contributors](https://img.shields.io/github/contributors/username/repository)
-
 ---
 
 ## 🧑‍💻 About Me  
@@ -21,7 +16,7 @@ A passionate **Sri Lanka-based freelance undergraduate software engineer** and f
 - ☁️ Exploring **Cloud technologies**, **Java**, and **SQL** to expand my expertise.  
 
 ---
-
+ 
 ## 🛠️ Languages & Frameworks  
 
 <div align="center">
@@ -59,11 +54,9 @@ A passionate **Sri Lanka-based freelance undergraduate software engineer** and f
 
 ## 📫 Connect With Me  
 
-<div align="center">
-  <a href="mailto:yagikasilva2001@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yagika-silva-b1b6ab254"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://yagikasilva.github.io/YAGI-Influx-Solutions/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-</div>
+- ✉️ **Email**: [yagikasilva2001@gmail.com](mailto:yagikasilva2001@gmail.com)  
+- 💼 **LinkedIn**: [Yagika](https://www.linkedin.com/in/yagika-silva-b1b6ab254)  
+- 🌐 **Portfolio**: [YAGI Influx Solutions](https://yagikasilva.github.io/YAGI-Influx-Solutions/)  
 
 ---
 
