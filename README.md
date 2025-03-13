@@ -19,7 +19,7 @@ A passionate **Sri Lanka-based freelance undergraduate software engineer** and f
 
 ## 🛠️ Languages & Frameworks  
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;" />
@@ -36,7 +36,7 @@ A passionate **Sri Lanka-based freelance undergraduate software engineer** and f
 
 ## 🛠️ Tools & Technologies  
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -58,15 +58,9 @@ A passionate **Sri Lanka-based freelance undergraduate software engineer** and f
 ## 📫 Connect With Me  
 
 <div align="center">
-  <a href="mailto:yagikasilva2001@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/yagika-silva-b1b6ab254">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://yagikasilva.github.io/YAGI-Influx-Solutions/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Portfolio" width="40" height="40" />
-  </a>
+  <a href="mailto:yagikasilva2001@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yagika-silva-b1b6ab254"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://yagikasilva.github.io/YAGI-Influx-Solutions/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 
