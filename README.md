@@ -35,7 +35,7 @@ class Person:
         print(f"My core skills include: {', '.join(self.skills)}.")
         print(f"My strengths: {', '.join(self.strengths)}.")
 
-# Example usage
+# I'm a fan of Python.
 person = Person(
     name="Yagika Silva",
     role="Software Engineer & Founder of YAGI Influx Solutions",
