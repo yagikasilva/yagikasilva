@@ -3,7 +3,10 @@ Here’s a more polished and visually appealing version of your bio:
 ---
 
 <p align="center">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> ## Hi, I'm **Yagika**
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
+</p>
+<p align="center" style="color: #f72585; font-size: 36px; font-weight: bold; background-color: #121212; padding: 10px; border-radius: 8px;">
+   Hi, I'm <strong>Yagika</strong>
 </p>
 
 
