@@ -12,6 +12,9 @@ Here’s a more polished and visually appealing version of your bio:
     Hi, I'm **Yagika**
   </text>
 </svg>
+<p align="center">
+   <img src="https://your-uploaded-gif-link.gif" alt="Typewriter Animation">
+</p>
 
 
 **A passionate Sri Lanka-based freelance undergraduate software engineer** and the founder of **YAGI Influx Solutions**. 🌟  
