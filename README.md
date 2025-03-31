@@ -8,6 +8,30 @@ A passionate **Sri Lanka-based freelance undergraduate software engineer** and f
 - 💡 I love **solving real-world problems** with innovative technology.  
 - 🤝 Open to **collaborations**, **open-source contributions**, and **freelance projects**.  
 
+
+
+class Person:
+    def __init__(self, name, role, skills, strengths):
+        self.name = name
+        self.role = role
+        self.skills = skills
+        self.strengths = strengths
+
+    def introduce(self):
+        print(f"Hi, I'm {self.name}, a {self.role}.")
+        print(f"My core skills include: {', '.join(self.skills)}.")
+        print(f"My strengths: {', '.join(self.strengths)}.")
+
+# Example usage
+person = Person(
+    name="Yagika Silva",
+    role="Software Engineer & Founder of YAGI Influx Solutions",
+    skills=["Problem Solving", "Mobile App Development", "Cloud Technologies", "Coding"],
+    strengths=["Attention to Detail", "Innovative Ideas", "Collaborative Team Player"]
+)
+
+person.introduce()
+
 ---
 
 ## 🚀 What I'm Working On  
