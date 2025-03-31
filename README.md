@@ -3,18 +3,10 @@ Here’s a more polished and visually appealing version of your bio:
 ---
 
 <p align="center">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> ## Hi, I'm **Yagika**
 </p>
 
-<svg width="800" height="100" viewBox="0 0 800 100" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="50" font-size="24" fill="black">
-    <animate attributeName="x" from="-800" to="800" dur="5s" repeatCount="indefinite" />
-    Hi, I'm **Yagika**
-  </text>
-</svg>
-<p align="center">
-   <img src="https://your-uploaded-gif-link.gif" alt="Typewriter Animation">
-</p>
+
 
 
 **A passionate Sri Lanka-based freelance undergraduate software engineer** and the founder of **YAGI Influx Solutions**. 🌟  
