@@ -1,15 +1,20 @@
-# 👋 Hi, I'm **Yagika**  
-A passionate **Sri Lanka-based freelance undergraduate software engineer** and founder of **YAGI Influx Solutions**. 🌟  
+Here’s a more polished and visually appealing version of your bio:  
 
 ---
 
-## 🧑‍💻 About Me  
-- 🎓 Currently pursuing a **Bachelor's in Software Engineering** at the **Open University of Sri Lanka** (2nd Year).  
-- 💡 I love **solving real-world problems** with innovative technology.  
-- 🤝 Open to **collaborations**, **open-source contributions**, and **freelance projects**.  
+# 👋 Hi, I'm **Yagika**  
+**A passionate Sri Lanka-based freelance undergraduate software engineer** and the founder of **YAGI Influx Solutions**. 🌟  
 
+---
 
+## 🧑‍💻 **About Me**  
+🎓 Currently pursuing a **Bachelor's in Software Engineering** at the **Open University of Sri Lanka** (2nd Year).  
+💡 Driven to solve **real-world problems** through innovative technology.  
+🤝 Open to **collaborations**, **open-source contributions**, and **freelance projects**.  
 
+---
+
+```python
 class Person:
     def __init__(self, name, role, skills, strengths):
         self.name = name
@@ -26,22 +31,23 @@ class Person:
 person = Person(
     name="Yagika Silva",
     role="Software Engineer & Founder of YAGI Influx Solutions",
-    skills=["Problem Solving", "Mobile App Development", "Cloud Technologies", "Coding"],
-    strengths=["Attention to Detail", "Innovative Ideas", "Collaborative Team Player"]
+    skills=["Problem Solving", "Mobile App Development", "Cloud Technologies", "Coding", "Innovation"],
+    strengths=["Attention to Detail", "Creative Ideas", "Team Collaboration"]
 )
 
 person.introduce()
+```
 
 ---
 
-## 🚀 What I'm Working On  
-- 🌱 Improving my understanding of **Data Structures and Algorithms**.  
-- 📱 Developing mobile apps using **Android Studio** and **Firebase**.  
-- ☁️ Exploring **Cloud technologies**, **Java**, and **SQL** to expand my expertise.  
+## 🚀 **What I'm Working On**  
+🌱 Expanding my expertise in **Data Structures and Algorithms**.  
+📱 Developing mobile applications using **Android Studio** and **Firebase**.  
+☁️ Exploring advanced topics in **Cloud Technologies**, **Java**, and **SQL**.  
 
 ---
 
-## 🛠️ Languages & Frameworks  
+## 🛠️ **Languages & Frameworks**  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 10px;" />
@@ -54,11 +60,9 @@ person.introduce()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" style="margin: 10px;" />
 </div>
 
-
-
 ---
 
-## 🛠️ Tools & Technologies  
+## 🛠️ **Tools & Technologies**  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
@@ -69,17 +73,16 @@ person.introduce()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" width="40" height="40" />
 </div>
 
+---
+
+## 🌟 **Currently Focusing On**  
+🤝 Seeking hands-on experience through a **software engineering internship**.  
+🤖 Exploring **Artificial Intelligence (AI)** and its practical applications.  
+💡 Developing **innovative projects** to turn ideas into reality.  
 
 ---
 
-## 🌟 Currently Focusing On  
-- 🤝 Gaining hands-on experience through an **internship** in software engineering.  
-- 🤖 Exploring **Artificial Intelligence (AI)** and its practical applications.  
-- 💡 Working on **innovative projects** to turn ideas into reality.  
-
----
-
-## 📫 Connect With Me  
+## 📫 **Connect With Me**  
 
 <div align="left">
   <a href="mailto:yagikasilva2001@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -87,9 +90,7 @@ person.introduce()
   <a href="https://yagi-influx-solutions.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
 </div>
 
-
 ---
 
-## ⚡ Fun Fact  
+## ⚡ **Fun Fact**  
 **"Programming is 1% writing code and 99% debugging... but I love both!"**  
-
