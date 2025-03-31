@@ -2,7 +2,12 @@ Here’s a more polished and visually appealing version of your bio:
 
 ---
 
-# 👋 Hi, I'm **Yagika**  
+# 👋 Hi, I'm **Yagika**
+
+<p align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+</p>
+
 **A passionate Sri Lanka-based freelance undergraduate software engineer** and the founder of **YAGI Influx Solutions**. 🌟  
 
 ---
@@ -47,14 +52,6 @@ person.introduce()
 
 ---
 
-
-Here’s the updated section with all the tools and languages added:
-
----
-Here’s an updated version of the section with a margin of 25px and a grid-like layout for better organization. 
-
----
-
 ## 🛠️ **Tools & Languages**  
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 25px; margin: 0 auto; max-width: 800px;">
@@ -84,9 +81,6 @@ Here’s an updated version of the section with a margin of 25px and a grid-like
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse IDE" width="40" height="40" />
 </div>  
 
---- 
-
-This version ensures that the icons are displayed in a well-organized grid layout rather than a single row.
 ---
 
 ## 🌟 **Currently Focusing On**  
