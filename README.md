@@ -5,9 +5,8 @@ Here’s a more polished and visually appealing version of your bio:
 <p align="center">
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
 </p>
-<p align="center" style="color: #f72585; font-size: 36px; font-weight: bold; background-color: #121212; padding: 10px; border-radius: 8px;">
-   Hi, I'm <strong>Yagika</strong>
-</p>
+<h1 style="font-size: 36px; color: #f0f0f0; font-weight: bold;">Hi, I'm <span style="color: #4caf50;">Yagika</span></h1>
+
 
 
 
