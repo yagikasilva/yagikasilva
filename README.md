@@ -4,7 +4,7 @@ Here’s a more polished and visually appealing version of your bio:
 
 
 <p align="left">
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm **Yagika**
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> # Hi, I'm **Yagika**
 </p>
 
 **A passionate Sri Lanka-based freelance undergraduate software engineer** and the founder of **YAGI Influx Solutions**. 🌟  
