@@ -1,6 +1,6 @@
 
 
-<h1 style="font-size: 36px; color: #f0f0f0; font-weight: bold;" align="center">Hi, I'm <span style="color: #4caf50;">Yagika</span></h1>
+<h1 style="font-size: 36px; color: #f0f0f0; font-weight: bold;" align="center">Hi, Gys...</h1>
 <h1 align=center>
   <img src="https://readme-typing-svg.herokuapp.com?font=Dune+rise&pause=1000&color=B7C9AA&center=true&random=false&width=435&lines=I'm+Asantha+Yagika"/>
 </h1>
