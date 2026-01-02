@@ -56,7 +56,6 @@ person.introduce()
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,c,wordpress,flutter,dart,vue,flask,django,figma,firebase,git,androidstudio,vscode,bash,ps,pycharm,idea,eclipse" />
 
-
 ---
 
 ## 🌟 **Currently Focusing On**  
@@ -68,11 +67,20 @@ person.introduce()
 
 ## 📫 **Connect With Me**  
 
-<div align="left">
-  <a href="mailto:yagikasilva2001@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/yagika-silva-b1b6ab254"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://yagi-influx-solutions.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-</div>
+<!-- Contact -->
+<a href="mailto:yagikasilva2001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/yagika-silva-b1b6ab254">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://yagi-influx-solutions.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+<!-- Skills -->
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,c,wordpress,flutter,dart,vue,flask,django,figma,firebase,git,androidstudio,vscode,bash,ps,pycharm,idea,eclipse" />
+
 
 ---
 
