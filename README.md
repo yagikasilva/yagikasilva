@@ -54,7 +54,7 @@ person.introduce()
 
 ## 🛠️ **Tools & Languages**  
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,c,wordpress,flutter,dart,vue,flask,django,figma,firebase,git,androidstudio,vscode,bash,ps,pycharm,idea,eclipse" />
+<img align=center src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,c,wordpress,flutter,dart,vue,flask,django,figma,firebase,git,androidstudio,vscode,bash,ps,pycharm,idea,eclipse" />
 
 ---
 
@@ -77,9 +77,6 @@ person.introduce()
 <a href="https://yagi-influx-solutions.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" />
 </a>
-
-<!-- Skills -->
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,c,wordpress,flutter,dart,vue,flask,django,figma,firebase,git,androidstudio,vscode,bash,ps,pycharm,idea,eclipse" />
 
 
 ---
